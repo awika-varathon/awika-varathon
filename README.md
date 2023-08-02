@@ -6,11 +6,13 @@
 ## Personal Automation Testing Project:
 <img src="https://github.com/awika-varathon/automationexercise/assets/109526119/6d51d845-37b6-4351-9499-ec85ea2f1b12" alt="automationExercise" width="400"/>
 
-[**★ Project: automationExercise Website (WIP: 3 July 2023)**](https://github.com/awika-varathon/automationexercise)<br>
+**★ Project: Website automationExercise**
+- [**Testing Tool: Cypress (DONE 2 August 2023)**](https://github.com/awika-varathon/automationexercise)
 
 <img src="https://github.com/awika-varathon/automationpractice/assets/109526119/3338d760-37e5-4013-9b79-098f98c5abe8" alt="automationPractice" width="400"/>
 
-[**★ Project: automationPractice Website (DONE: 12 July 2023)**](https://github.com/awika-varathon/automationpractice)
+**★ Project: Website automationPractice**
+- [**Testing Tool: Cypress (DONE 12 July 2023)**](https://github.com/awika-varathon/automationpractice)
 
 ## Automation Testing Tool:
 
